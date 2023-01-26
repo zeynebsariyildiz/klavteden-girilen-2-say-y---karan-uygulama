@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klavteden-girilen-2-sayıyı-çıkaran-uygulama", "klavteden-girilen-2-sayıyı-çıkaran-uygulama.csproj", "{997B0EB4-EDB9-45E2-B43C-FA93ADC8E26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997B0EB4-EDB9-45E2-B43C-FA93ADC8E26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997B0EB4-EDB9-45E2-B43C-FA93ADC8E26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997B0EB4-EDB9-45E2-B43C-FA93ADC8E26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997B0EB4-EDB9-45E2-B43C-FA93ADC8E26A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17D767E5-519A-4985-A6CD-8C2E0DAF7876}
+	EndGlobalSection
+EndGlobal
