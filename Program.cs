@@ -16,9 +16,9 @@ namespace klavteden_girilen_2_sayıyı_çıkaran_uygulama
             Console.WriteLine("Lütfen  Bir Sayı Daha Giriniz");
             sayi2 = Convert.ToInt32((Console.ReadLine()));
             fark = sayi1 - sayi2;
-            {
-                Console.WriteLine("Girdiğiniz Sayıların Farkı = {0}", fark);
-            }
+            //{ bu paranteze gerek yok
+            Console.WriteLine("Girdiğiniz Sayıların Farkı = {0}", fark);
+            //}bu paranteze gerek yok
             Console.ReadKey();
         }
     }
